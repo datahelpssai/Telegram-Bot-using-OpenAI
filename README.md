@@ -44,8 +44,8 @@ https://docs.aiogram.dev/en/latest/
 
 1. Search for botfather
 2. /newbot
-   - mybot88
-   - mybot88_bot
+   - userdefined bot name
+   - userdefined bot username
 
    * Now click on url to access the bot
    * Make sure you collect the access token
